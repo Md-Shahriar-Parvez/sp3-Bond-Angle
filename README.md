@@ -50,7 +50,7 @@ The tetrahedral bond angle provides a particularly clear example: a result commo
 
 ## Contents
 
-* `sp3_bond_angle_derivation.pdf` — Complete derivation and mathematical discussion
+* `Bond_Angle_SP3.pdf` — Complete derivation and mathematical discussion
 * `README.md` — Overview of the study
 
 ## Scope
