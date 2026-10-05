@@ -59,10 +59,10 @@ This note concerns the **ideal tetrahedral geometry** associated with four equiv
 
 ## Author
 
-**Md. Shahriar Parvez**
-Department of Mechanical Engineering
-Bangladesh University of Engineering and Technology (BUET), Dhaka, Bangladesh
-
+**Md. Shahriar Parvez**  
+Department of Mechanical Engineering  
+Bangladesh University of Engineering and Technology (BUET)  
+Dhaka, Bangladesh
 ---
 
 *This is an independent mathematical study conducted as part of my broader interest in first-principles derivations and geometric reasoning.*
